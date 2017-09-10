@@ -54,11 +54,6 @@
     <Reference Include="Mono.Android" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\OnSaveInstanceStateExceptionSample\OnSaveInstanceStateExceptionSample.csproj">
-      <Name>OnSaveInstanceStateExceptionSample</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <Compile Include="MainActivityWithQueue.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="MyFragment.cs" />
