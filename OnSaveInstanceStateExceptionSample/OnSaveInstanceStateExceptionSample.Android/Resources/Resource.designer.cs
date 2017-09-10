@@ -60,8 +60,14 @@ namespace OnSaveInstanceStateExceptionSample.Droid
 		public partial class Id
 		{
 			
+			// aapt resource value: 0x7f050002
+			public const int fragment_container = 2131034114;
+			
+			// aapt resource value: 0x7f050001
+			public const int instruction = 2131034113;
+			
 			// aapt resource value: 0x7f050000
-			public const int myButton = 2131034112;
+			public const int switch1 = 2131034112;
 			
 			static Id()
 			{
@@ -78,6 +84,9 @@ namespace OnSaveInstanceStateExceptionSample.Droid
 			
 			// aapt resource value: 0x7f030000
 			public const int Main = 2130903040;
+			
+			// aapt resource value: 0x7f030001
+			public const int my_fragment = 2130903041;
 			
 			static Layout()
 			{
